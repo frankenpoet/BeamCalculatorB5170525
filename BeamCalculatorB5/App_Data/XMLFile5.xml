@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListItems>
+  <ListItem text="1.0" value="0"></ListItem>
+  <ListItem text="1.5" value="1"></ListItem>
+  <ListItem text="2.0" value="2"></ListItem>
+  <ListItem text="2.5" value="3"></ListItem>
+  <ListItem text="3.0" value="4"></ListItem>
+  <ListItem text="3.5" value="5"></ListItem>
+  <ListItem text="4.0" value="6"></ListItem>
+  <ListItem text="4.5" value="7"></ListItem>
+</ListItems>

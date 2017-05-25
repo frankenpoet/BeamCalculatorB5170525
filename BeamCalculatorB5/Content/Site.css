@@ -1,0 +1,161 @@
+﻿body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family:'Helvetica', 'Trebuchet MS', sans-serif;
+}
+
+#powered {
+    font-size: .75em;
+    font-style: italic;
+    font-weight:bold;
+    margin-left: 110px;
+    margin-top:-1.1em;
+}
+
+.disclaimTitle {
+    color:red;
+}
+
+#calcTitle {
+    font-size:1.3em;
+    font-weight:bold;
+    width:80%;
+    margin-left:2em;
+    margin-top: 5px;
+}
+
+.ddlItalic {
+    font-style: italic;
+}
+
+.unitClass {
+    display: inline;
+    font-size: .75em;
+    margin-left: 10px;
+}
+
+#aload #pload {
+    margin-top: -2px;
+}
+
+#connLbl {
+    width: 75px;
+    margin-top: 10px;
+    padding-bottom: 2px;
+}
+
+#pliesRadio {
+    margin-left: 75px;
+    margin-top: -29px;
+    padding-bottom: 5px;
+    width: 250px;
+}
+
+.pliesClass {
+    display:inline;
+    font-size: 1em;
+}
+
+.checkList {
+    font-size: .75em;
+}
+
+.logo {
+    margin-top:-.1em;
+    margin-left:-.6em;
+}
+
+.labelCss{
+    font-family:'Helvetica', 'Trebuchet MS', sans-serif;
+    font-size: .8em;
+    width:100%;
+    height:auto; 
+}
+
+#lowerForm {
+    width: 100%;
+}
+
+#belowForm {
+    width: 100%;
+}
+
+#pliesDiv {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    margin: auto;
+}
+
+.lowerClass {
+    font-size: .8em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.fontBold {
+    font-size: .75em;
+    font-weight: bold;
+}
+
+.fontSize {
+    font-size: .75em;
+    font-weight:normal;
+}
+
+td {
+    margin-left: 1.25em;
+}
+
+.bulletList {
+    font-size: .95em;
+}
+
+#mainTable {
+     margin-top: 10px;
+ }
+
+#left {
+    margin-top: 10px;
+}
+
+.showDetails {
+    font-size: .8em;
+}
+
+#table1 {
+    width: 320px;
+    margin: auto;
+}
+
+#chckTbl {
+    margin-top: -15px;
+}
+
+#cnnctTbl {
+    margin-top: -22px;
+    margin-bottom: 15px;
+}
+
+#right{
+    margin-left:2.2em;
+    margin-top: -9px;
+}
+
+#cantDiv{
+    margin-top: 2px;
+}
+
+.boxDim{
+    margin-top: 2px;
+    height:17.5px;
+    width:120px;
+}
+
+.body-content {
+        padding: 0;
+}
+
+.lowerLabels {
+    font-size: .8em;
+}
